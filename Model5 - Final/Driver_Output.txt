@@ -1,0 +1,56 @@
+The SSE when using the initial guess is: 0.352 
+
+The AIC for the initial parameter set is: -188.338 
+
+The minimum parameter set is: 
+  Columns 1 through 9
+
+   8.1279e+02   1.5581e+03   1.0000e-01   1.9967e+04   1.6002e+02   1.3272e+04   1.9603e+05   1.0000e-01   2.5210e+03
+
+  Columns 10 through 13
+
+   8.7067e+02   1.1217e-06   3.0861e-05   1.5000e+00
+
+With SSE: 0.151 
+
+The AIC for the minimum parameter set is: -226.470 
+
+The average parameter set is: 
+  Columns 1 through 9
+
+   6.8109e+02   1.2832e+03   1.0000e-01   1.0254e+05   1.6387e+02   5.0337e+03   8.2806e+04   1.0000e-01   9.2074e+03
+
+  Columns 10 through 13
+
+   9.3380e+02   1.1180e-06   3.0890e-05   1.5000e+00
+
+The parameter set SD is: 
+  Columns 1 through 9
+
+   4.5073e+01   1.1870e+02   4.1738e-17   5.6429e+04   2.7122e+01   3.8255e+03   6.0142e+04   4.1738e-17   8.6292e+03
+
+  Columns 10 through 13
+
+   1.8409e+02   4.5421e-09   1.9383e-07            0
+
+The parameter set SE is: 
+  Columns 1 through 9
+
+   3.1871e+00   8.3936e+00   2.9513e-18   3.9901e+03   1.9178e+00   2.7050e+02   4.2527e+03   2.9513e-18   6.1018e+02
+
+  Columns 10 through 13
+
+   1.3017e+01   3.2118e-10   1.3706e-08            0
+
+The average SSE is: 0.156 
+
+The SSE SD is: 4.482068e-03 
+
+The SSE SE is: 3.169301e-04 
+
+The AIC for the average parameter set is: -225.013 
+
+The SSE using the average parameter set is: 0.521 
+
+The AIC for the average parameter set is: -170.634 
+
