@@ -1,0 +1,75 @@
+The SSE when using the initial guess is: 0.191 
+
+Unrecognized function or variable 'numPars'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('A_Driver', 'C:\Users\ch62057\OneDrive - mcw.edu\10Virus_Egress_ODE_Model\Model3 - Final\A_Driver.m', 120)" style="font-weight:bold">A_Driver</a> (<a href="matlab: opentoline('C:\Users\ch62057\OneDrive - mcw.edu\10Virus_Egress_ODE_Model\Model3 - Final\A_Driver.m',120,0)">line 120</a>)
+Nd = 45; Np = numPars-3+1;
+
+M = 200
+
+M =
+
+   200
+
+numPars = 11
+
+numPars =
+
+    11
+
+The SSE when using the initial guess is: 0.191 
+
+The AIC for the initial parameter set is: -222.579 
+
+The minimum parameter set is: 
+  Columns 1 through 9
+
+   6.2679e+02   1.1559e+03   1.0000e-01   1.4165e+02   7.6797e+02   1.4369e+04   1.0000e-01   9.6563e+02   1.1197e-06
+
+  Columns 10 through 11
+
+   3.0912e-05   1.5000e+00
+
+With SSE: 0.160 
+
+The AIC for the minimum parameter set is: -230.501 
+
+The average parameter set is: 
+  Columns 1 through 9
+
+   6.2431e+02   1.1375e+03   1.0000e-01   1.5241e+02   7.5152e+02   1.3873e+04   1.0000e-01   9.3954e+02   1.1168e-06
+
+  Columns 10 through 11
+
+   3.0900e-05   1.5000e+00
+
+The parameter set SD is: 
+  Columns 1 through 9
+
+   2.2646e+00   4.5075e+01   4.1738e-17   2.3489e+01   2.7941e+01   1.1010e+03   4.1738e-17   1.9186e+02   2.4707e-09
+
+  Columns 10 through 11
+
+   1.2077e-08            0
+
+The parameter set SE is: 
+  Columns 1 through 9
+
+   1.6013e-01   3.1873e+00   2.9513e-18   1.6609e+00   1.9757e+00   7.7856e+01   2.9513e-18   1.3567e+01   1.7470e-10
+
+  Columns 10 through 11
+
+   8.5399e-10            0
+
+The average SSE is: 0.161 
+
+The SSE SD is: 2.189343e-03 
+
+The SSE SE is: 1.548099e-04 
+
+The AIC for the average parameter set is: -230.305 
+
+The SSE using the average parameter set is: 0.160 
+
+The AIC for the average parameter set is: -230.493 
+
