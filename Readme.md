@@ -22,13 +22,13 @@ the manuscript without ambiguity.
 
 The initial guesses for the regulatory parameters are such 
 that there is no effect initially with the regulatory terms.
-Initial guesses are as follows. 
-M1: p0 = [6E2,9E2,1E-1,6E2,9E3,1E-1,1E-6,3E-5,1.5E0];
-M2: p0 = [6E2,9E2,1E-1,1E5,6E2,9E3,1E-1,1E5,1E-6,3E-5,1.5E0];
-M3: p0 = [6E2,9E2,1E-1,1E1,6E2,9E3,1E-1,1E1,1E-6,3E-5,1.5E0];
-M4: p0 = [6E2,9E2,1E-1,5E4,6E2,9E3,1E-1,2.5E4,1E-6,3E-5,1.5E0];
-M5: p0 = [6E2,9E2,1E-1,5E4,1E5,6E2,9E3,1E-1,2.5E4,1E5,1E-6,3E-5,1.5E0];
-M6: p0 = [6E2,9E2,1E-1,5E4,1E1,6E2,9E3,1E-1,2.5E4,1E1,1E-6,3E-5,1.5E0];
+Initial guesses are as follows.   
+M1: p0 = [6E2,9E2,1E-1,6E2,9E3,1E-1,1E-6,3E-5,1.5E0];  
+M2: p0 = [6E2,9E2,1E-1,1E5,6E2,9E3,1E-1,1E5,1E-6,3E-5,1.5E0];  
+M3: p0 = [6E2,9E2,1E-1,1E1,6E2,9E3,1E-1,1E1,1E-6,3E-5,1.5E0];  
+M4: p0 = [6E2,9E2,1E-1,5E4,6E2,9E3,1E-1,2.5E4,1E-6,3E-5,1.5E0];  
+M5: p0 = [6E2,9E2,1E-1,5E4,1E5,6E2,9E3,1E-1,2.5E4,1E5,1E-6,3E-5,1.5E0];  
+M6: p0 = [6E2,9E2,1E-1,5E4,1E1,6E2,9E3,1E-1,2.5E4,1E1,1E-6,3E-5,1.5E0];  
 
 
 This is the final version for PNAS paper revision.
